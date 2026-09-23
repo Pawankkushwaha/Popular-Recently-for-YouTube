@@ -1,6 +1,11 @@
 # Popular Recently for YouTube
 
-A Chrome extension that shows creators what's actually landing *recently* on any YouTube channel, its Shorts, or a playlist, not just its all-time greatest hits, and turns that data into research an AI tool can use.
+A Chrome extension that shows creators what's actually popular *recently* on any YouTube channel videos, its Shorts, not just its all-time greatest hits, and turns that data into research an AI tool can use. 
+
+## Try it
+
+- **Chrome Web Store:** link coming soon. 
+- **Website:** https://popularrecently.netlify.app
 
 ## The problem
 
@@ -60,10 +65,6 @@ This loop, spotting a real problem, building a fix, and living with (and fixing)
 
 Manifest V3 Chrome extension, content-script based (no API key or login needed). Vibe-coded end to end with [Claude Code](https://claude.com/claude-code) as a hands-on build to learn AI-assisted development.
 
-## Try it
-
-- **Chrome Web Store:** pending Google's review — link coming soon. The version submitted for review is an earlier, simpler snapshot (chip + panel on the Videos tab, single-video export only); everything else above is built and tested, and will ship in a future store update.
-- **Website (privacy policy & support):** https://popularrecently.netlify.app
 
 ## About this repo
 
